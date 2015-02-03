@@ -1,0 +1,5 @@
+C:\Users\jermie\AndroidStudioProjects\CriminalIntent\app\build\intermediates\classes\debug
+C:\Users\jermie\AndroidStudioProjects\CriminalIntent\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-fef4ad59923b88709514ed99a80502e7865fe767.jar
+C:\Users\jermie\AndroidStudioProjects\CriminalIntent\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2da03b5a8e165bc409b263f203da1ed9a3749ab2.jar
+C:\Users\jermie\AndroidStudioProjects\CriminalIntent\app\build\intermediates\pre-dexed\debug\classes-a547988beb76f9a4694277c99cccb982d26dccf2.jar
+C:\Users\jermie\AndroidStudioProjects\CriminalIntent\app\build\intermediates\pre-dexed\debug\classes-b0cd449a676bd1c9f4d7524ee63b85194b0238c2.jar
