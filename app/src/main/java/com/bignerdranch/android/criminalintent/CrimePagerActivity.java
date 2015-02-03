@@ -57,6 +57,7 @@ public class CrimePagerActivity extends ActionBarActivity implements CrimeFragme
 
 	}
 
+	//to prevent crashing, every activity that hosts crimefragment should implement Callbacks/this method
 	@Override
 	public void onCrimeUpdated(Crime c) {
 
